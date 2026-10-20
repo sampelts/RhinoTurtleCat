@@ -3,8 +3,8 @@ import sys
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(PROJECT_ROOT))
-DATA_DIR = PROJECT_ROOT / 'stage_2_data'
-RESULT_DIR = PROJECT_ROOT / 'result' / 'stage_2_result'
+DATA_DIR = PROJECT_ROOT / 'data' / 'stage_2_data'
+RESULT_DIR = PROJECT_ROOT / 'sigmoid activation results'
 
 from local_code.stage_2_code.Dataset_Loader import Dataset_Loader
 from local_code.stage_2_code.Method_MLP import Method_MLP

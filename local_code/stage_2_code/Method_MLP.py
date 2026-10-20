@@ -32,7 +32,7 @@ class Method_MLP(method, nn.Module):
         # check here for nn.ReLU doc: https://pytorch.org/docs/stable/generated/torch.nn.ReLU.html
         self.activation_func_1 = nn.ReLU()
         self.fc_layer_2 = nn.Linear(256, 128)
-        self.activation_func_2 = nn.ReLU()
+        self.activation_func_2 = nn.ReLU()   
         self.fc_layer_3 = nn.Linear(128, 10)
 
     # it defines the forward propagation function for input x
@@ -42,7 +42,7 @@ class Method_MLP(method, nn.Module):
         '''Forward propagation'''
         # hidden layer embeddings
         h1 = self.activation_func_1(self.fc_layer_1(x))
-        h2 = self.activation_func_2(self.fc_layer_2(h1))
+        h2 = self.activation_func_1(self.fc_layer_2(h1))
         # outout layer result
         # self.fc_layer_2(h) will be a nx2 tensor
         # n (denotes the input instance number): 0th dimension; 2 (denotes the class number): 1st dimension

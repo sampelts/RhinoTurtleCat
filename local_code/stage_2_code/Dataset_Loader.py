@@ -21,6 +21,6 @@ class Dataset_Loader(dataset):
         data = np.genfromtxt(self.dataset_source_folder_path + self.dataset_source_file_name, delimiter=',')
         np_X = data[:,1:]
         np_y = data[:,0]
-        X = np_X
+        X = np_X / 255.0
         y = np_y
         return {'X': X, 'y': y}
