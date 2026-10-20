@@ -87,11 +87,18 @@ class Method_MLP(method, nn.Module):
 
             if epoch%10 == 0 or epoch == self.max_epoch-1:
                 accuracy_evaluator.data = {'true_y': y_true, 'pred_y': y_pred.max(1)[1]}
-                accuracy = accuracy_evaluator.evaluate()
+                metrics = accuracy_evaluator.evaluate()
                 loss = train_loss.item()
                 if self.history:
-                    self.history.record(Epoch = epoch, Accuracy = accuracy, Loss = loss)
-                print('Epoch:', epoch, 'Accuracy:', accuracy, 'Loss:', loss)
+                    self.history.record(
+                        Epoch=epoch,
+                        Accuracy=metrics['accuracy'],
+                        Precision_Macro=metrics['precision_macro'],
+                        Recall_Macro=metrics['recall_macro'],
+                        F1_Macro=metrics['f1_macro'],
+                        Loss=loss,
+                    )
+                print('Epoch:', epoch, 'Metrics:', metrics, 'Loss:', loss)
         if self.history:
             self.history.save()
     
@@ -108,4 +115,3 @@ class Method_MLP(method, nn.Module):
         print('--start testing...')
         pred_y = self.test(self.data['test']['X'])
         return {'pred_y': pred_y, 'true_y': self.data['test']['y']}
-            

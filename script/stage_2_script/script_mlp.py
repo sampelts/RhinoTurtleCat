@@ -1,3 +1,11 @@
+from pathlib import Path
+import sys
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(PROJECT_ROOT))
+DATA_DIR = PROJECT_ROOT / 'stage_2_data'
+RESULT_DIR = PROJECT_ROOT / 'result' / 'stage_2_result'
+
 from local_code.stage_2_code.Dataset_Loader import Dataset_Loader
 from local_code.stage_2_code.Method_MLP import Method_MLP
 from local_code.stage_2_code.Result_Saver import Result_Saver
@@ -16,22 +24,23 @@ if 1:
 
     # ---- objection initialization setction ---------------
     data_train_obj = Dataset_Loader('train', '')
-    data_train_obj.dataset_source_folder_path = '../../data/stage_2_data/'
+    data_train_obj.dataset_source_folder_path = str(DATA_DIR) + '/'
     data_train_obj.dataset_source_file_name = 'train.csv'
 
     data_test_obj = Dataset_Loader('test', '')
-    data_test_obj.dataset_source_folder_path = '../../data/stage_2_data/'
+    data_test_obj.dataset_source_folder_path = str(DATA_DIR) + '/'
     data_test_obj.dataset_source_file_name = 'test.csv'
 
+    RESULT_DIR.mkdir(parents=True, exist_ok=True)
     history_obj = History_Saver('', '')
-    history_obj.history_destination_folder_path = '../../result/stage_2_result/'
+    history_obj.history_destination_folder_path = str(RESULT_DIR) + '/'
     history_obj.history_destination_file_name = 'history_MLP.csv'
 
     method_obj = Method_MLP('multi-layer perceptron', '')
     method_obj.history = history_obj
 
     result_obj = Result_Saver('saver', '')
-    result_obj.result_destination_folder_path = '../../result/stage_2_result/MLP_'
+    result_obj.result_destination_folder_path = str(RESULT_DIR / 'MLP_')
     result_obj.result_destination_file_name = 'prediction_result'
 
     setting_obj = Setting_Train_Test_PreSplit('Presplit dataset', 'mnist presplit dataset')
@@ -49,6 +58,3 @@ if 1:
     print('MLP Accuracy: ' + str(mean_score) + ' +/- ' + str(std_score))
     print('************ Finish ************')
     # ------------------------------------------------------
-    
-
-    
