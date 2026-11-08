@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.DS_Store
+mnist/new_runs/

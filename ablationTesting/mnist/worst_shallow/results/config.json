@@ -1,0 +1,132 @@
+{
+  "dataset": "instructor MNIST",
+  "train_samples": 60000,
+  "test_samples": 10000,
+  "epochs": 10,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "loss": "cross_entropy",
+  "seed": 42,
+  "device": "cpu",
+  "threads": 1,
+  "pixel_range": "raw float32 0..255; no scaling",
+  "validation_samples": 0,
+  "protocol": "All variants fixed beforehand; final epoch; one test evaluation per variant.",
+  "limitations": "One seed per configuration; test comparisons are descriptive, not model selection.",
+  "experiments": [
+    {
+      "name": "baseline",
+      "change": "Original two-block CNN",
+      "model": {
+        "conv_channels": [
+          16,
+          32
+        ],
+        "hidden_sizes": [
+          128
+        ],
+        "kernel_size": 3,
+        "padding": 1,
+        "stride": 1,
+        "pooling": "max"
+      }
+    },
+    {
+      "name": "shallow",
+      "change": "One convolutional block (16 filters)",
+      "model": {
+        "conv_channels": [
+          16
+        ],
+        "hidden_sizes": [
+          128
+        ],
+        "kernel_size": 3,
+        "padding": 1,
+        "stride": 1,
+        "pooling": "max"
+      }
+    },
+    {
+      "name": "kernel5",
+      "change": "5x5 convolution kernels; padding stays 1",
+      "model": {
+        "conv_channels": [
+          16,
+          32
+        ],
+        "hidden_sizes": [
+          128
+        ],
+        "kernel_size": 5,
+        "padding": 1,
+        "stride": 1,
+        "pooling": "max"
+      }
+    },
+    {
+      "name": "average_pool",
+      "change": "Average pooling replaces max pooling",
+      "model": {
+        "conv_channels": [
+          16,
+          32
+        ],
+        "hidden_sizes": [
+          128
+        ],
+        "kernel_size": 3,
+        "padding": 1,
+        "stride": 1,
+        "pooling": "avg"
+      }
+    },
+    {
+      "name": "dense64",
+      "change": "64 dense units instead of 128",
+      "model": {
+        "conv_channels": [
+          16,
+          32
+        ],
+        "hidden_sizes": [
+          64
+        ],
+        "kernel_size": 3,
+        "padding": 1,
+        "stride": 1,
+        "pooling": "max"
+      }
+    }
+  ],
+  "environment": {
+    "python": "3.14.3",
+    "platform": "macOS-15.7.3-arm64-arm-64bit-Mach-O",
+    "torch": "2.14.1",
+    "numpy": "2.5.4",
+    "sklearn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "source_sha256": {
+    "script_mnist_ablation.py": "f795f6d78e7e77282551c0d4b201200cf6e466e3558bda2bc1c9436a970ee40b",
+    "script_mnist.py": "e6608b13847612cefaf4e6952c8b780e05c5093ae65ae52948a1c05e389804bc",
+    "Method_CNN_MNIST.py": "db66e609c795377be760d83cebb3ac4714e3cbfaab297b83ad1f74ecba5fd5fa",
+    "Dataset_Loader_MNIST.py": "c70cca64b1ad7f96df8b80ae4899e3f85668d7ed6cdb2adf5e61db6cc5199a5e",
+    "method.py": "d978262486543b2952a31246b95003e6f0f44813fe0d9391bbf2dce43aa921c0",
+    "dataset.py": "01756b67fb0708f47e05f8ce81822433fa7a3997bdc2f0c8222b9dd662d57ea0"
+  },
+  "model": {
+    "conv_channels": [
+      16
+    ],
+    "hidden_sizes": [
+      128
+    ],
+    "kernel_size": 3,
+    "padding": 1,
+    "stride": 1,
+    "pooling": "max"
+  },
+  "variant": "shallow"
+}
