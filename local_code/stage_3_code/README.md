@@ -88,3 +88,36 @@ ORL output files. No ORL baseline scores are claimed by the integration check.
 Integration fixes make runner paths independent of the working directory,
 evaluate all observed ORL classes, store scalar training accuracy, validate
 the selected channel index, and open history files for reading when loading.
+
+## CIFAR-10 object recognition (Sai's implementation)
+
+CIFAR uses `Dataset_Loader_CIFAR.py` and `Method_CNN_CIFAR.py`, along with the
+shared `Evaluate_Accuracy.py`, `History_Saver.py`, `Result_Saver.py`, and
+`Setting_Train_Test_PreSplit.py`.
+
+Place the instructor's CIFAR pickle at `data/stage_3_data/CIFAR` relative to the
+repository root, then run:
+
+```bash
+python script/stage_3_script/script_cnn_cifar.py                  # baseline
+python script/stage_3_script/script_cnn_cifar.py --config deeper  # one configuration
+python script/stage_3_script/script_cnn_cifar.py --config all     # every configuration
+```
+
+The loader keeps all three color channels and standardizes each one with
+training-set statistics. The baseline uses three convolutional blocks (32, 64,
+and 128 filters, 3 × 3 kernels, padding 1, ReLU, 2 × 2 max pooling), a 256-unit
+dense layer with dropout 0.5, and a 10-class output. Defaults are 20 epochs,
+batch size 128, Adam, learning rate 0.001, and cross-entropy loss. Training runs
+on the GPU when CUDA is available. All 50,000 training images are used; the
+10,000 test images are evaluated after every epoch only to draw the learning
+curves, never to choose a model.
+
+The configuration experiments each change one setting of the baseline:
+`shallower`, `deeper`, `kernel_5`, `no_padding`, `stride_2`, `avg_pool`,
+`hidden_64`, `batch_norm`, `no_dropout`, `margin_loss`, and `sgd`.
+
+Each run is saved to `result/stage_3_result/cifar/<config>/`
+(`history_CNN.csv`, `learning_curve.png`, `metrics.json`, and predictions), and
+one row per run is appended to `result/stage_3_result/cifar/summary.csv`. The
+baseline reached about 77% test accuracy (77.1% and 77.5% in two runs).
