@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "dataset": "ORL",
+    "config": "baseline",
+    "change": "Baseline",
+    "seed": 2,
+    "epochs": 50,
+    "parameters": 2556968,
+    "n_train": 320,
+    "n_val": 40,
+    "n_test": 40,
+    "final_train_loss": 0.018762034340761603,
+    "final_val_loss": 0.019625721499323845,
+    "val_accuracy": 1.0,
+    "test_accuracy": 0.95,
+    "test_precision_macro": 0.925,
+    "test_recall_macro": 0.95,
+    "test_f1_macro": 0.9333333333333332,
+    "test_precision_weighted": 0.925,
+    "test_recall_weighted": 0.95,
+    "test_f1_weighted": 0.9333333333333332,
+    "seconds": 4.0,
+    "device": "cuda"
+  },
+  "config": {
+    "conv_channels": [
+      16,
+      32,
+      64
+    ],
+    "kernel_size": 3,
+    "padding": 1,
+    "stride": 1,
+    "pool": "max",
+    "batch_norm": false,
+    "hidden_dim": 256,
+    "dropout": 0.5,
+    "loss": "cross_entropy",
+    "optimizer": "adam",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "batch_size": 32,
+    "max_epoch": 50
+  },
+  "val_metrics": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0
+  },
+  "test_metrics": {
+    "accuracy": 0.95,
+    "precision_macro": 0.925,
+    "recall_macro": 0.95,
+    "f1_macro": 0.9333333333333332,
+    "precision_weighted": 0.925,
+    "recall_weighted": 0.95,
+    "f1_weighted": 0.9333333333333332
+  }
+}

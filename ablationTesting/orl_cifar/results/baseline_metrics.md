@@ -1,0 +1,6 @@
+## Baseline model performance on the supplied test split
+
+| Dataset | Seeds | Accuracy % | Precision (macro) % | Recall (macro) % | F1 (macro) % |
+|---|---|---|---|---|---|
+| ORL | 3 | 96.7 ± 1.4 | 95.0 ± 2.2 | 96.7 ± 1.4 | 95.6 ± 1.9 |
+| CIFAR | 1 | 76.0 | 76.8 | 76.0 | 76.2 |
