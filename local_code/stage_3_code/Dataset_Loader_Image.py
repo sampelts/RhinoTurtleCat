@@ -32,10 +32,10 @@ class Dataset_Loader(dataset):
         else:
             raise ValueError("Unsupported image dimensions")
         if self.channel_index is not None:
-            if not 0 <= self.channel_index < images.shape[1]:
+            if not 0 <= self.channel_index <= images.shape[1]:
                 raise ValueError("Channel index out of range")
             images = images[:,self.channel_index:self.channel_index+1]
-        images = images.astype(np.float32) / 255.0 #explain
+        images = images.astype(np.float32) / 255.0
         return torch.from_numpy(np.ascontiguousarray(images))
 
     def load_labels(self, samples):

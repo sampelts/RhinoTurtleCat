@@ -54,7 +54,6 @@ class Method_CNN_Base(method, nn.Module):
         loader = DataLoader(train_dataset, batch_size=self.batch_size, shuffle=True)
 
         for epoch in range(self.max_epoch):
-            nn.Module.train(self, True)
             total_loss = 0.0
             all_pred, all_true = [], []
 
