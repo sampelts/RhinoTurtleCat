@@ -12,7 +12,7 @@ import numpy as np
 from local_code.base_class.dataset import dataset
 
 # Point to the expected repository-level location of the instructor data.
-DATA_DIRECTORY = Path(__file__).resolve().parents[2] / "stage_3_data"
+DATA_DIRECTORY = Path(__file__).resolve().parents[2] / "data" / "stage_3_data"
 
 
 # Define the MNIST-specific dataset loader used by the CNN script.
