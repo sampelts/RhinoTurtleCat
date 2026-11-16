@@ -6,3 +6,10 @@ data/stage_4_data/
 result/**/best.pt
 result/**/smoke/
 .DS_Store
+
+# Optional local report materials and full environment snapshot.
+/report/movie_lstm_gru/
+/requirements-stage4-lock.txt
+/script/stage_4_script/movie_report_html.py
+/script/stage_4_script/script_movie_architecture.py
+/script/stage_4_script/script_movie_report.py
