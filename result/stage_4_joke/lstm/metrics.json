@@ -1,0 +1,21 @@
+{
+  "config": {
+    "cell": "LSTM",
+    "embedding_dim": 128,
+    "hidden_size": 256,
+    "num_layers": 1,
+    "dropout": 0.3,
+    "learning_rate": 0.002,
+    "batch_size": 32,
+    "max_epoch": 40,
+    "clip_norm": 1.0
+  },
+  "best_epoch": 12,
+  "test": {
+    "loss": 4.075366325647269,
+    "perplexity": 58.87204297792804,
+    "accuracy": 0.3394675019577134
+  },
+  "parameters": 1943349,
+  "device": "cuda"
+}

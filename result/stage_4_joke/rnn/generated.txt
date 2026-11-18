@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say when it hit into a bar . . . . .
+sample 1 (T=0.8): what did the american say to the other ? because he was too saucy .
+sample 2 (T=0.8): what did the flat go to the other ? because he wanted to go to the other slide , but you can't you do .
+sample 3 (T=0.8): what did the students say when he flew the chicken ? a drizzle .
+=== why did the
+greedy:  why did the chicken cross the road ? because he was a little boulder .
+sample 1 (T=0.8): why did the chicken cross the road ? because it was a little boulder .
+sample 2 (T=0.8): why did the chicken cross a walk ? a metlife yesterday .
+sample 3 (T=0.8): why did the buddhist invest the talent ? his beef .
+=== how do you
+greedy:  how do you call a cow with a twitch ? a stick .
+sample 1 (T=0.8): how do you call a very today ? ' nacho
+sample 2 (T=0.8): how do you call a cow with a pie ? its butt .
+sample 3 (T=0.8): how do you call a piano goes to his son ? ohio had a quadriplegic bear .
+=== what do you
+greedy:  what do you call a cow with a twitch ? a stick .
+sample 1 (T=0.8): what do you call a cow with a double ? you gets would you smell carrots .
+sample 2 (T=0.8): what do you call a frenchman of bread ? he wanted to be addicted .
+sample 3 (T=0.8): what do you call a guitar say to the other ? because they're infeggtious !
+=== i told my
+greedy:  i told my slaves like my friend .
+sample 1 (T=0.8): i told my slaves want to get his patient . . . likes a boat
+sample 2 (T=0.8): i told my coffee knock knock . . . it's not 3 !
+sample 3 (T=0.8): i told my way . it's called discriminate
