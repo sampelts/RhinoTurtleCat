@@ -1,0 +1,21 @@
+prompt,mode,joke,words,exact_copy,longest_shared_words,shared_phrase,closest_training_joke,copied_4grams_pct
+what did the,greedy,what did the fish say to the other ? nice belt .,12,False,5,what did the fish say,what did the fish say when it swam into the wall ? dam .,55.6
+what did the,sampled,what did the american say to the other planets ? nice belt .,13,False,6,say to the other planets ?,what did earth say to the other planets ? you guys have no life !,50.0
+what did the,sampled,what did the digital say to the other program ? a huge its - na - khaaaaannnnn .,18,False,4,what did the digital,"what did the digital clock say to the grandfather clock ? look grandpa , no hands !",13.3
+what did the,sampled,what did the hungarian say to the other restaurant ? one of them,13,False,7,what did the hungarian say to the,what did the hungarian say to the annoying kid ? you're nothing budapest !,50.0
+why did the,greedy,why did the chicken cross the road ? because it was a little meteor .,15,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,91.7
+why did the,sampled,why did the bigamist potato ? the chicken,8,False,4,why did the bigamist,why did the bigamist cross the road ? to get to the other bride .,20.0
+why did the,sampled,why did the twinkie spit a fight ? because it,10,False,4,why did the twinkie,why did the twinkie go to the dentist ? he lost his filling !,28.6
+why did the,sampled,why did the chicken cross the road ? because he was always in case a walk .,17,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,57.1
+how do you,greedy,how do you get a cow ? a stick .,10,False,4,how do you get,"how do you get down from an elephant ? you don't , you get down from a duck",28.6
+how do you,sampled,how do you get your legs ? a decafalon !,10,False,4,how do you get,"how do you get down from an elephant ? you don't , you get down from a duck",14.3
+how do you,sampled,how do you give a monastery ? a pengrin - in ) !,13,False,3,how do you,"how do you kill bread ? bake it for a little while , and it will be toast .",0.0
+how do you,sampled,how do you think for a noisy ? i made a anthony romaine,13,False,4,how do you think,how do you think the unthinkable ? with an itheburg .,10.0
+what do you,greedy,what do you call a cow with no legs ? a receding hare .,14,False,10,what do you call a cow with no legs ?,what do you call a cow with no legs ? ground beef !,81.8
+what do you,sampled,what do you call a truthful ? you goes to the right eye .,14,False,6,what do you call a truthful,what do you call a truthful piece of paper ? fax .,27.3
+what do you,sampled,what do you call a bear with a vest and a bar ? control,14,False,7,what do you call a bear with,what do you call a bear with no teeth ? a gummy bear .,36.4
+what do you,sampled,what do you call a boomerang ? pointless . . . jimmy entrees see rung laugh !,17,False,6,what do you call a boomerang,what do you call a boomerang that doesn't come back ? pt 2 a boomer - wrong !,21.4
+i told my,greedy,i told my slaves like my slaves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,50,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,i told my girlfriend talk know american what in it in a week . . . he is a dirty sitting .,22,False,4,i told my girlfriend,i told my girlfriend she drew her eyebrows on too high she looked surprised .,15.8
+i told my,sampled,"i told my laptop she said , i started it was a little forced .",15,False,6,it was a little forced .,the preacher today used star wars as a sermon illustration . i felt it was a little forced .,25.0
+i told my,sampled,i told my slaves like to work a bar . . . all a mouse it's called her,18,False,5,a bar . . .,a skeleton walks into a bar . . . asks for a beer and a mop .,20.0

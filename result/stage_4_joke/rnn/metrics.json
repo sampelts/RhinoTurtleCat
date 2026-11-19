@@ -1,0 +1,21 @@
+{
+  "config": {
+    "cell": "RNN",
+    "embedding_dim": 128,
+    "hidden_size": 256,
+    "num_layers": 1,
+    "dropout": 0.3,
+    "learning_rate": 0.002,
+    "batch_size": 32,
+    "max_epoch": 40,
+    "clip_norm": 1.0
+  },
+  "best_epoch": 9,
+  "test": {
+    "loss": 4.193357941127887,
+    "perplexity": 66.24486425140186,
+    "accuracy": 0.3312451057165231
+  },
+  "parameters": 1646901,
+  "device": "cuda"
+}

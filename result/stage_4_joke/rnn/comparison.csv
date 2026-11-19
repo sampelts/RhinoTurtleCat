@@ -1,0 +1,21 @@
+prompt,mode,joke,words,exact_copy,longest_shared_words,shared_phrase,closest_training_joke,copied_4grams_pct
+what did the,greedy,what did the fish say when it hit into a bar . . . . .,16,False,8,what did the fish say when it hit,what did the fish say when it hit the concrete wall ? dam,61.5
+what did the,sampled,what did the american say to the other ? because he was too saucy .,15,False,5,say to the other ?,what did one duck say to the other ? quack !,41.7
+what did the,sampled,"what did the flat go to the other ? because he wanted to go to the other slide , but you can't you do .",25,False,5,? because he wanted to,why did the buddhist monk refuse novocain ? because he wanted to transcend dental medication .,36.4
+what did the,sampled,what did the students say when he flew the chicken ? a drizzle .,14,False,3,what did the,what did the tin man say when he got run over by a steamroller ? curses ! foil again !,0.0
+why did the,greedy,why did the chicken cross the road ? because he was a little boulder .,15,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,83.3
+why did the,sampled,why did the chicken cross the road ? because it was a little boulder .,15,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,91.7
+why did the,sampled,why did the chicken cross a walk ? a metlife yesterday .,12,False,5,why did the chicken cross,why did the chicken cross the road ? to show the opossum it could be done .,22.2
+why did the,sampled,why did the buddhist invest the talent ? his beef .,11,False,4,why did the buddhist,why did the buddhist monk refuse novocain ? because he wanted to transcend dental medication .,12.5
+how do you,greedy,how do you call a cow with a twitch ? a stick .,13,False,9,do you call a cow with a twitch ?,what do you call a cow with a twitch ? beef jerky,80.0
+how do you,sampled,how do you call a very today ? ' nacho,10,False,5,how do you call a,how do you call a deer with no eyes ? no idea .,42.9
+how do you,sampled,how do you call a cow with a pie ? its butt .,13,False,7,do you call a cow with a,what do you call a cow with a twitch ? beef jerky,60.0
+how do you,sampled,how do you call a piano goes to his son ? ohio had a quadriplegic bear .,17,False,5,how do you call a,how do you call a deer with no eyes ? no idea .,14.3
+what do you,greedy,what do you call a cow with a twitch ? a stick .,13,False,10,what do you call a cow with a twitch ?,what do you call a cow with a twitch ? beef jerky,80.0
+what do you,sampled,what do you call a cow with a double ? you gets would you smell carrots .,17,False,8,what do you call a cow with a,what do you call a cow with a twitch ? beef jerky,35.7
+what do you,sampled,what do you call a frenchman of bread ? he wanted to be addicted .,15,False,6,what do you call a frenchman,what do you call a frenchman in sandals ? philippe philoppe .,41.7
+what do you,sampled,what do you call a guitar say to the other ? because they're infeggtious !,15,False,5,what do you call a,what do you call a fly with no wings ? a walk .,41.7
+i told my,greedy,i told my slaves like my friend .,8,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,i told my slaves want to get his patient . . . likes a boat,15,False,4,. . . likes,my brother . . . likes driving black and white f1 race cars . they call him the f1 racist .,8.3
+i told my,sampled,i told my coffee knock knock . . . it's not 3 !,13,False,5,knock knock . . .,knock knock . . . who's there ? i did up . i did up - who ?,30.0
+i told my,sampled,i told my way . it's called discriminate,8,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0

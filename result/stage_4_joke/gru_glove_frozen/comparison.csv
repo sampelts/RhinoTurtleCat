@@ -1,0 +1,21 @@
+prompt,mode,joke,words,exact_copy,longest_shared_words,shared_phrase,closest_training_joke,copied_4grams_pct
+what did the,greedy,what did the fish say when it was a little ? dam .,13,False,7,what did the fish say when it,what did the fish say when it swam into the wall ? dam .,60.0
+what did the,sampled,what did the owner say to the other west ? nice belt .,13,False,4,what did the owner,"what did the owner of the indian restaurant say when he burned all of his bread ? don't worry , it's a naan issue .",30.0
+what did the,sampled,what did the frog say in his garden ? he was said its over the ones !,17,False,3,what did the,what did the tin man say when he got run over by a steamroller ? curses ! foil again !,0.0
+what did the,sampled,what did the blonde say when she stepped into his haunted ? radio .,14,False,4,what did the blonde,what did the blonde do when she discovered that most accidents happen within a mile from home ? she moved .,9.1
+why did the,greedy,why did the chicken cross the road ? because it was a little .,14,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,100.0
+why did the,sampled,why did the bigamist go to the chicken ? because drizzle bowl,12,False,4,why did the bigamist,why did the bigamist cross the road ? to get to the other bride .,11.1
+why did the,sampled,why did the chicken cross the playground of the ? because it's the pretty scallion business in case did don't . . .,23,False,7,why did the chicken cross the playground,why did the chicken cross the playground ? to get to the other slide .,20.0
+why did the,sampled,why did the mobster go to the other day ? because he got the latest turnover in ),18,False,4,why did the mobster,why did the mobster buy a planner ? so he could organize his crime,13.3
+how do you,greedy,how do you call a cow with no legs ? a ruff .,13,False,9,do you call a cow with no legs ?,what do you call a cow with no legs ? ground beef !,80.0
+how do you,sampled,how do you pikachu a alien with no eyes ? a buccaneer,12,False,5,with no eyes ? a,"q : what do you call a deer with no eyes ? a : no eye deer ( no idea ) q : what do you call a quadriplegic deer with no eyes ? a : still , no eye deer . ( still no idea )",22.2
+how do you,sampled,how do you call a deep of space ? a cloud,11,False,5,how do you call a,how do you call a deer with no eyes ? no idea .,37.5
+how do you,sampled,how do you call a man who no a napkin ? a a meteor and no .,17,False,5,how do you call a,how do you call a deer with no eyes ? no idea .,21.4
+what do you,greedy,what do you call a cow with no legs ? a ruff,12,False,10,what do you call a cow with no legs ?,what do you call a cow with no legs ? ground beef !,88.9
+what do you,sampled,what do you call an other frog would you the penny ? a metro,14,False,5,what do you call an,what do you call an italian guy with a rubber toe ? roberto,18.2
+what do you,sampled,what do you call a cow with no eyes ? a little .,13,False,8,what do you call a cow with no,what do you call a cow with no legs ? ground beef !,70.0
+what do you,sampled,what do you call a guitar say you a roberto in a diving .,14,False,5,what do you call a,what do you call a fly with no wings ? a walk .,18.2
+i told my,greedy,"i told my slaves said , i was a little bit . . . but it was a little .",20,False,6,. . . but it was,i wanted to put a pizza joke here . . . but it was too saucy .,41.2
+i told my,sampled,i told my son said i made a little date . . . it . .,16,False,4,. . . it,two artists had an art contest . . . it ended in a draw,7.7
+i told my,sampled,"i told my coffee , it was cool - arc . .",12,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,"i told my coffee a mouse with my felt on . . . i but it was idea , but said , i had no pun - na",28,False,4,. . . i,"need help while scratching my ear with key few hours ago , audio on my brand new tv went off . does anyone know good tv service . sh . . . i think my laptop sound died too .",4.0

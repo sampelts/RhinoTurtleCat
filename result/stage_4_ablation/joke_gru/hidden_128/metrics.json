@@ -1,0 +1,21 @@
+{
+  "config": {
+    "cell": "GRU",
+    "embedding_dim": 128,
+    "hidden_size": 128,
+    "num_layers": 1,
+    "dropout": 0.3,
+    "learning_rate": 0.002,
+    "batch_size": 32,
+    "max_epoch": 40,
+    "clip_norm": 1.0
+  },
+  "best_epoch": 14,
+  "test": {
+    "loss": 4.067048576910606,
+    "perplexity": 58.38439101159832,
+    "accuracy": 0.34925606891151134
+  },
+  "parameters": 1132469,
+  "device": "cuda"
+}

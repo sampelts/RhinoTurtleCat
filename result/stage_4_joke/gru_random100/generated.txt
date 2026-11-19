@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say to the other ? i was a little boulder .
+sample 1 (T=0.8): what did the german physicist say to the follicle ? dinners !
+sample 2 (T=0.8): what did the fish say when it through the ele ? a huge turnip
+sample 3 (T=0.8): what did the picture say to the other ? i turned with a cowculator - .
+=== why did the
+greedy:  why did the chicken cross the road ? to get to the other slide .
+sample 1 (T=0.8): why did the students breathe after he was the prune ? a drizzle .
+sample 2 (T=0.8): why did the chicken cross the playground ? because it was too / woohoo .
+sample 3 (T=0.8): why did the skeleton opened a chicken ? because it was a jam !
+=== how do you
+greedy:  how do you know a man ? a white .
+sample 1 (T=0.8): how do you make a give ? a little meteor .
+sample 2 (T=0.8): how do you make a broken ? a fartender
+sample 3 (T=0.8): how do you know the apple who a anthony of his leg ? don't bother !
+=== what do you
+greedy:  what do you call a cow with no legs ? ground beef .
+sample 1 (T=0.8): what do you call a jihadist that opens credit ? a bear - arc .
+sample 2 (T=0.8): what do you call someone who serves have you ? a receding hare - hurty !
+sample 3 (T=0.8): what do you call a vest with stalks throat ? just ' ?
+=== i told my
+greedy:  i told my slaves i had a conversation with a mobius strip . . . it was a little forced .
+sample 1 (T=0.8): i told my slaves enemies in a joke about mad roberto makes a mouse .
+sample 2 (T=0.8): i told my son , i made a sparrow tree . . . it got for birthday . . . and work a sign ) .
+sample 3 (T=0.8): i told my coffee journey . it's lebron too cheesy .

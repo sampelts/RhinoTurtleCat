@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the mama say to the other ? nice belt .
+sample 1 (T=0.8): what did the musician wall the pineapple can that ? he could a moose
+sample 2 (T=0.8): what did the number say to the other the wall ? ugly where
+sample 3 (T=0.8): what did the fish say to the other and a game ? ( !
+=== why did the
+greedy:  why did the chicken cross the road ? to get to the other slide .
+sample 1 (T=0.8): why did the chicken cross the road ? to get married to get a hole .
+sample 2 (T=0.8): why did the strawberry tell when it was arrested the road ? he was fired .
+sample 3 (T=0.8): why did the chicken cross the road ? to get to the other side .
+=== how do you
+greedy:  how do you get a dog ? a buccaneer .
+sample 1 (T=0.8): how do you kill a dog that ? a stick .
+sample 2 (T=0.8): how do you make a lab ? just 1 .
+sample 3 (T=0.8): how do you get cross the unthinkable ? a buccaneer !
+=== what do you
+greedy:  what do you call a cow with no legs ? a receding hare .
+sample 1 (T=0.8): what do you call a mexican with a cruise ? you can't a bee - tuna !
+sample 2 (T=0.8): what do you call a cow that were ? a bear .
+sample 3 (T=0.8): what do you confuse a man that ? a cow that the answer .
+=== i told my
+greedy:  i told my slaves like my slaves . . . i was a little forced .
+sample 1 (T=0.8): i told my girlfriend time is , so today , i do me was great fell .
+sample 2 (T=0.8): i told my coffee free . . . . . of he is - genealogy .
+sample 3 (T=0.8): i told my socks to be addicted in my head .

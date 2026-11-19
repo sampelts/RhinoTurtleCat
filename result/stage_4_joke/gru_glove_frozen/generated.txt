@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say when it was a little ? dam .
+sample 1 (T=0.8): what did the owner say to the other west ? nice belt .
+sample 2 (T=0.8): what did the frog say in his garden ? he was said its over the ones !
+sample 3 (T=0.8): what did the blonde say when she stepped into his haunted ? radio .
+=== why did the
+greedy:  why did the chicken cross the road ? because it was a little .
+sample 1 (T=0.8): why did the bigamist go to the chicken ? because drizzle bowl
+sample 2 (T=0.8): why did the chicken cross the playground of the ? because it's the pretty scallion business in case did don't . . .
+sample 3 (T=0.8): why did the mobster go to the other day ? because he got the latest turnover in )
+=== how do you
+greedy:  how do you call a cow with no legs ? a ruff .
+sample 1 (T=0.8): how do you pikachu a alien with no eyes ? a buccaneer
+sample 2 (T=0.8): how do you call a deep of space ? a cloud
+sample 3 (T=0.8): how do you call a man who no a napkin ? a a meteor and no .
+=== what do you
+greedy:  what do you call a cow with no legs ? a ruff
+sample 1 (T=0.8): what do you call an other frog would you the penny ? a metro
+sample 2 (T=0.8): what do you call a cow with no eyes ? a little .
+sample 3 (T=0.8): what do you call a guitar say you a roberto in a diving .
+=== i told my
+greedy:  i told my slaves said , i was a little bit . . . but it was a little .
+sample 1 (T=0.8): i told my son said i made a little date . . . it . .
+sample 2 (T=0.8): i told my coffee , it was cool - arc . .
+sample 3 (T=0.8): i told my coffee a mouse with my felt on . . . i but it was idea , but said , i had no pun - na

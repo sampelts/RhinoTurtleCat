@@ -1,0 +1,21 @@
+prompt,mode,joke,words,exact_copy,longest_shared_words,shared_phrase,closest_training_joke,copied_4grams_pct
+what did the,greedy,what did the fish say when it was complemented ? dam .,12,False,7,what did the fish say when it,what did the fish say when it swam into the wall ? dam .,77.8
+what did the,sampled,what did the american say to the other planets ? i got up on the law !,17,False,6,say to the other planets ?,what did earth say to the other planets ? you guys have no life !,28.6
+what did the,sampled,what did the t say when it said he was left of business ? he was the bear with a jam,21,False,3,what did the,what did the tin man say when he got run over by a steamroller ? curses ! foil again !,0.0
+what did the,sampled,what did the one of say to the number ? nice belt,12,False,4,what did the one,what did the one wall say to the other wall ? meet you at the corner,22.2
+why did the,greedy,why did the chicken cross the road ? he was a little boulder .,14,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,72.7
+why did the,sampled,why did the twinkie stay for his simpsons ? because he couldn't the guts dressing .,16,False,4,why did the twinkie,why did the twinkie go to the dentist ? he lost his filling !,15.4
+why did the,sampled,why did the lobster keep the wall ? a chicken !,11,False,3,why did the,why did the chicken cross the road ? to show the opossum it could be done .,0.0
+why did the,sampled,why did the general ask his son about the other day ? he was too cheesy .,17,False,4,? he was too,why did the hippie drown ? he was too far out !,7.1
+how do you,greedy,how do you call a cow with a legs ? a cow .,13,False,7,do you call a cow with a,what do you call a cow with a twitch ? beef jerky,60.0
+how do you,sampled,how do you call a cow that no legs ? they didn't have a pie !,16,False,6,do you call a cow that,what do you call a cow that just gave birth ? decaffeinated,30.8
+how do you,sampled,how do you call a dime dinosaur ? you goes it .,12,False,5,how do you call a,how do you call a deer with no eyes ? no idea .,22.2
+how do you,sampled,how do you call a fish with no legs ? a vest and a bar .,16,False,7,do you call a fish with no,what do you call a fish with no eyes ? . . . a fssshhh . . .,53.8
+what do you,greedy,what do you call a cow with a legs ? a cow .,13,False,8,what do you call a cow with a,what do you call a cow with a twitch ? beef jerky,60.0
+what do you,sampled,what do you have you call a firecracker ? it .,11,False,3,what do you,what do you get when you mix michael jordan with donald trump ? a dunkin ' donut .,0.0
+what do you,sampled,what do you call a frenchman of a waggin ? a duck .,13,False,6,what do you call a frenchman,what do you call a frenchman in sandals ? philippe philoppe .,30.0
+what do you,sampled,what do you call an american with a vest ? a roberto - waaaa,14,False,5,what do you call an,what do you call an italian guy with a rubber toe ? roberto,18.2
+i told my,greedy,i told my slaves like my coffee . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,39,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,i told my son to college ? i made my way to be a fan surgeon . .,18,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,i told my coffee american doublemint and work then he wanted to be hard . . . it's too cheesy .,21,False,5,. it's too cheesy .,here's a funny joke i heard about pizza oh nevermind . it's too cheesy .,16.7
+i told my,sampled,i told my girlfriend from but he was my little x - fi . . . i calmed it .,20,False,4,i told my girlfriend,i told my girlfriend she drew her eyebrows on too high she looked surprised .,11.8

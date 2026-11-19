@@ -1,0 +1,21 @@
+prompt,mode,joke,words,exact_copy,longest_shared_words,shared_phrase,closest_training_joke,copied_4grams_pct
+what did the,greedy,what did the fish say to the other ? i was a little boulder .,15,False,5,what did the fish say,what did the fish say when it swam into the wall ? dam .,50.0
+what did the,sampled,what did the german physicist say to the follicle ? dinners !,12,False,5,what did the german physicist,what did the german physicist use to drink his beer ? ein stein .,44.4
+what did the,sampled,what did the fish say when it through the ele ? a huge turnip,14,False,7,what did the fish say when it,what did the fish say when it swam into the wall ? dam .,36.4
+what did the,sampled,what did the picture say to the other ? i turned with a cowculator - .,16,False,7,what did the picture say to the,what did the picture say to the judge ? i was framed ! i just now made that up . i feel good about this one !,46.2
+why did the,greedy,why did the chicken cross the road ? to get to the other slide .,15,False,13,why did the chicken cross the road ? to get to the other,why did the chicken cross the road ? to get to the other side .,100.0
+why did the,sampled,why did the students breathe after he was the prune ? a drizzle .,14,False,3,why did the,why did the chicken cross the road ? to show the opossum it could be done .,0.0
+why did the,sampled,why did the chicken cross the playground ? because it was too / woohoo .,15,False,8,why did the chicken cross the playground ?,why did the chicken cross the playground ? to get to the other slide .,50.0
+why did the,sampled,why did the skeleton opened a chicken ? because it was a jam !,14,False,5,? because it was a,why was the school grey ? because it was a greyed school .,27.3
+how do you,greedy,how do you know a man ? a white .,10,False,4,how do you know,"how do you know you put the right joke in the right thread ? don't worry , someone will tell you .",14.3
+how do you,sampled,how do you make a give ? a little meteor .,11,False,5,how do you make a,how do you make a tissue dance ? you put a little boogie in it .,37.5
+how do you,sampled,how do you make a broken ? a fartender,9,False,5,how do you make a,how do you make a tissue dance ? you put a little boogie in it .,33.3
+how do you,sampled,how do you know the apple who a anthony of his leg ? don't bother !,16,False,4,how do you know,"how do you know you put the right joke in the right thread ? don't worry , someone will tell you .",7.7
+what do you,greedy,what do you call a cow with no legs ? ground beef .,13,True,13,what do you call a cow with no legs ? ground beef .,what do you call a cow with no legs ? ground beef .,100.0
+what do you,sampled,what do you call a jihadist that opens credit ? a bear - arc .,15,False,7,what do you call a jihadist that,what do you call a jihadist that loves turkey ? a tryptophanatic .,33.3
+what do you,sampled,what do you call someone who serves have you ? a receding hare - hurty !,16,False,7,what do you call someone who serves,what do you call someone who serves smelly drinks ? a fartender,46.2
+what do you,sampled,what do you call a vest with stalks throat ? just ' ?,13,False,5,what do you call a,what do you call a fly with no wings ? a walk .,20.0
+i told my,greedy,i told my slaves i had a conversation with a mobius strip . . . it was a little forced .,21,False,13,i had a conversation with a mobius strip . . . it was,i had a conversation with a mobius strip . . . it was one - sided .,72.2
+i told my,sampled,i told my slaves enemies in a joke about mad roberto makes a mouse .,15,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,"i told my son , i made a sparrow tree . . . it got for birthday . . . and work a sign ) .",26,False,4,. . . it,two artists had an art contest . . . it ended in a draw,8.7
+i told my,sampled,i told my coffee journey . it's lebron too cheesy .,11,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0

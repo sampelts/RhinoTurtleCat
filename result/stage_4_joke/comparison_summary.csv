@@ -1,0 +1,15 @@
+run,mode,jokes,exact_copies,avg_longest_shared_words,avg_copied_4grams_pct,avg_joke_words
+gru,greedy,5,0,6.6,51.2,20.4
+gru,sampled,15,0,4.7,22.6,13.1
+gru_glove,greedy,5,1,8.4,73.1,20.8
+gru_glove,sampled,15,0,4.7,18.4,15.7
+gru_glove_fallback,greedy,5,0,6.6,54.1,18.2
+gru_glove_fallback,sampled,15,0,4.5,17.1,15.7
+gru_glove_frozen,greedy,5,0,8.0,74.0,14.4
+gru_glove_frozen,sampled,15,0,4.7,18.8,15.6
+gru_random100,greedy,5,1,9.6,67.3,14.8
+gru_random100,sampled,15,0,5.2,26.1,14.5
+lstm,greedy,5,0,6.0,51.5,20.2
+lstm,sampled,15,0,5.2,25.9,14.3
+rnn,greedy,5,0,7.6,61.0,13.0
+rnn,sampled,15,0,5.2,31.9,14.3

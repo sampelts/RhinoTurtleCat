@@ -1,0 +1,81 @@
+{
+  "accuracy": 0.85468,
+  "precision_macro": 0.855680615503849,
+  "recall_macro": 0.85468,
+  "f1_macro": 0.8545777230001943,
+  "cell": "GRU",
+  "test_loss": 0.48063890971183776,
+  "best_epoch": 6,
+  "best_validation_accuracy": 0.87,
+  "parameter_count": 3237313,
+  "training_seconds": 22.166968682999993,
+  "confusion_matrix": [
+    [
+      10352,
+      2148
+    ],
+    [
+      1485,
+      11015
+    ]
+  ],
+  "per_class": {
+    "negative": {
+      "precision": 0.8745459153501732,
+      "recall": 0.82816,
+      "f1": 0.8507211242141595,
+      "support": 12500
+    },
+    "positive": {
+      "precision": 0.8368153156575249,
+      "recall": 0.8812,
+      "f1": 0.8584343217862292,
+      "support": 12500
+    }
+  },
+  "dataset_sha256": "002627904ee8cb8571a3bf1b214446258370f3521d89fa0d931be2832cfa9aa8",
+  "dataset_config": {
+    "max_len": 300,
+    "min_freq": 3,
+    "max_vocab_size": 25000,
+    "val_fraction": 0.1,
+    "seed": 42,
+    "pad_token": "<PAD>",
+    "unk_token": "<UNK>",
+    "pad_idx": 0,
+    "unk_idx": 1,
+    "label_map": {
+      "neg": 0,
+      "pos": 1
+    }
+  },
+  "original_split_sizes": {
+    "train": 22500,
+    "val": 2500,
+    "test": 25000
+  },
+  "used_split_sizes": {
+    "train": 22500,
+    "val": 2500,
+    "test": 25000
+  },
+  "smoke_run": false,
+  "config": {
+    "cell": "GRU",
+    "epochs": 10,
+    "embedding_dim": 128,
+    "hidden_size": 64,
+    "num_layers": 1,
+    "dropout": 0.0,
+    "batch_size": 64,
+    "lr": 0.001,
+    "seed": 2,
+    "threads": 4,
+    "device": "cuda"
+  },
+  "environment": {
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130",
+    "device": "cuda"
+  }
+}

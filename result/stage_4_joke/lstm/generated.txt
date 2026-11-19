@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say to the other ? nice belt .
+sample 1 (T=0.8): what did the american say to the other planets ? nice belt .
+sample 2 (T=0.8): what did the digital say to the other program ? a huge its - na - khaaaaannnnn .
+sample 3 (T=0.8): what did the hungarian say to the other restaurant ? one of them
+=== why did the
+greedy:  why did the chicken cross the road ? because it was a little meteor .
+sample 1 (T=0.8): why did the bigamist potato ? the chicken
+sample 2 (T=0.8): why did the twinkie spit a fight ? because it
+sample 3 (T=0.8): why did the chicken cross the road ? because he was always in case a walk .
+=== how do you
+greedy:  how do you get a cow ? a stick .
+sample 1 (T=0.8): how do you get your legs ? a decafalon !
+sample 2 (T=0.8): how do you give a monastery ? a pengrin - in ) !
+sample 3 (T=0.8): how do you think for a noisy ? i made a anthony romaine
+=== what do you
+greedy:  what do you call a cow with no legs ? a receding hare .
+sample 1 (T=0.8): what do you call a truthful ? you goes to the right eye .
+sample 2 (T=0.8): what do you call a bear with a vest and a bar ? control
+sample 3 (T=0.8): what do you call a boomerang ? pointless . . . jimmy entrees see rung laugh !
+=== i told my
+greedy:  i told my slaves like my slaves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+sample 1 (T=0.8): i told my girlfriend talk know american what in it in a week . . . he is a dirty sitting .
+sample 2 (T=0.8): i told my laptop she said , i started it was a little forced .
+sample 3 (T=0.8): i told my slaves like to work a bar . . . all a mouse it's called her
