@@ -29,9 +29,11 @@ class Method_Recurrent_Joke(method, nn.Module):
         'batch_size': 32,
         'max_epoch': 40,
         'clip_norm': 1.0,         # gradient clipping, as in the movie models
+        'freeze_embeddings': False,  # only with pretrained_embeddings: keep the GloVe vectors fixed
     }
 
-    def __init__(self, mName, mDescription, vocab_size, pad_idx=0, unk_idx=1, **overrides):
+    def __init__(self, mName, mDescription, vocab_size, pad_idx=0, unk_idx=1,
+                 pretrained_embeddings=None, **overrides):
         method.__init__(self, mName, mDescription)
         nn.Module.__init__(self)
         unknown = set(overrides) - set(self.config)
@@ -48,7 +50,17 @@ class Method_Recurrent_Joke(method, nn.Module):
         self.best_epoch = None
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-        self.embedding = nn.Embedding(vocab_size, c['embedding_dim'], padding_idx=pad_idx)
+        if pretrained_embeddings is None:
+            if c['freeze_embeddings']:
+                raise ValueError('freeze_embeddings needs pretrained_embeddings')
+            self.embedding = nn.Embedding(vocab_size, c['embedding_dim'], padding_idx=pad_idx)
+        else:
+            # start from pretrained (GloVe) vectors instead of random ones
+            if tuple(pretrained_embeddings.shape) != (vocab_size, c['embedding_dim']):
+                raise ValueError(f"pretrained embeddings must be {vocab_size} x {c['embedding_dim']}, "
+                                 f"got {tuple(pretrained_embeddings.shape)}")
+            self.embedding = nn.Embedding.from_pretrained(pretrained_embeddings.float(), padding_idx=pad_idx,
+                                                          freeze=c['freeze_embeddings'])
         self.recurrent = getattr(nn, c['cell'])(c['embedding_dim'], c['hidden_size'], num_layers=c['num_layers'],
                                                batch_first=True, dropout=c['dropout'] if c['num_layers'] > 1 else 0.0)
         self.dropout = nn.Dropout(c['dropout'])

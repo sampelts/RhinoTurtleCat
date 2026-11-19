@@ -3,6 +3,7 @@
 
 # Local data and trained checkpoints; keep small result tables/figures in Git.
 data/stage_4_data/
+data/pretrained_glove/
 result/**/best.pt
 result/**/smoke/
 .DS_Store

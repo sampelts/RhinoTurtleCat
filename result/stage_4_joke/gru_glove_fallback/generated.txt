@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say when it was complemented ? dam .
+sample 1 (T=0.8): what did the american say to the other planets ? i got up on the law !
+sample 2 (T=0.8): what did the t say when it said he was left of business ? he was the bear with a jam
+sample 3 (T=0.8): what did the one of say to the number ? nice belt
+=== why did the
+greedy:  why did the chicken cross the road ? he was a little boulder .
+sample 1 (T=0.8): why did the twinkie stay for his simpsons ? because he couldn't the guts dressing .
+sample 2 (T=0.8): why did the lobster keep the wall ? a chicken !
+sample 3 (T=0.8): why did the general ask his son about the other day ? he was too cheesy .
+=== how do you
+greedy:  how do you call a cow with a legs ? a cow .
+sample 1 (T=0.8): how do you call a cow that no legs ? they didn't have a pie !
+sample 2 (T=0.8): how do you call a dime dinosaur ? you goes it .
+sample 3 (T=0.8): how do you call a fish with no legs ? a vest and a bar .
+=== what do you
+greedy:  what do you call a cow with a legs ? a cow .
+sample 1 (T=0.8): what do you have you call a firecracker ? it .
+sample 2 (T=0.8): what do you call a frenchman of a waggin ? a duck .
+sample 3 (T=0.8): what do you call an american with a vest ? a roberto - waaaa
+=== i told my
+greedy:  i told my slaves like my coffee . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+sample 1 (T=0.8): i told my son to college ? i made my way to be a fan surgeon . .
+sample 2 (T=0.8): i told my coffee american doublemint and work then he wanted to be hard . . . it's too cheesy .
+sample 3 (T=0.8): i told my girlfriend from but he was my little x - fi . . . i calmed it .

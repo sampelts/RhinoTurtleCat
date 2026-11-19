@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say when it hit the wall ? dam .
+sample 1 (T=0.8): what did the american say to the other planets ? dinners !
+sample 2 (T=0.8): what did the fish say when it go to the other ? said its using .
+sample 3 (T=0.8): what did the boy say to the store with the grill restaurant ? one is a vest .
+=== why did the
+greedy:  why did the chicken cross the road ? because it was a little boulder .
+sample 1 (T=0.8): why did the picture leek the super of tea bowl ? he was a stewicide
+sample 2 (T=0.8): why did the french detained the new boxer ? he lost in case a wrapped .
+sample 3 (T=0.8): why did the general ask his son about his armies ? because he was too he .
+=== how do you
+greedy:  how do you call a cow with a cow ? a cow .
+sample 1 (T=0.8): how do you call a cow that no legs ? they didn't have a pie !
+sample 2 (T=0.8): how do you call a raping in space ? a stab .
+sample 3 (T=0.8): how do you call a fish with no legs ? a vest and a bar .
+=== what do you
+greedy:  what do you call a cow with a cow ? a cow .
+sample 1 (T=0.8): what do you have you call a firecracker ? it .
+sample 2 (T=0.8): what do you call a frenchman of a waggin ? a duck .
+sample 3 (T=0.8): what do you call an american with a cashew ? a roberto - mart
+=== i told my
+greedy:  i told my slaves like my coffee . . . i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i
+sample 1 (T=0.8): i told my son from college ? i made my bodies - aly .
+sample 2 (T=0.8): i told my coffee . . . he said it was work .
+sample 3 (T=0.8): i told my wanted to the table . . . it's too much . # . i am , bach , i said , there don't know i like my ear .
