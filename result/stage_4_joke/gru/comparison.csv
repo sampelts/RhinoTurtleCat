@@ -1,0 +1,21 @@
+prompt,mode,joke,words,exact_copy,longest_shared_words,shared_phrase,closest_training_joke,copied_4grams_pct
+what did the,greedy,what did the fish say to the other ? the wall !,12,False,5,what did the fish say,what did the fish say when it swam into the wall ? dam .,44.4
+what did the,sampled,"what did the american say to the other ? hey ,",11,False,7,"say to the other ? hey ,","what did one earthquake say to the other ? hey , it's not my fault .",62.5
+what did the,sampled,what did the number say when it was leaving thing ? the problems said,14,False,4,what did the number,what did the number zero say to the number eight ? nice belt,18.2
+what did the,sampled,what did the math zero say to the dentist ? i !,12,False,4,zero say to the,what did the zero say to the eight ? nice belt,22.2
+why did the,greedy,why did the chicken cross the road ? he was a little .,13,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,80.0
+why did the,sampled,why did the strawberry keep his armies ? because he was a glass .,14,False,5,? because he was a,why did the dog sleep on the chandelier ? because he was a light sleeper .,36.4
+why did the,sampled,why did the homemade go to the road ? he was outstanding her .,14,False,4,? he was outstanding,why did the scarecrow win the nobel prize ? he was outstanding in his field .,9.1
+why did the,sampled,why did the packaged grape the prune ? because it was a wrapped .,14,False,6,? because it was a wrapped,why did the packaged green onion get into trouble ? because it was a wrapped scallion .,36.4
+how do you,greedy,how do you get when you cross a cow ? a buccaneer .,13,False,7,do you get when you cross a,what do you get when you cross a pig and a spider ? bacon and scrambled leggs .,50.0
+how do you,sampled,how do you get your does a bowl ? !,10,False,4,how do you get,"how do you get down from an elephant ? you don't , you get down from a duck",14.3
+how do you,sampled,how do you give a man ? you don't you in ) !,13,False,3,how do you,"how do you kill bread ? bake it for a little while , and it will be toast .",0.0
+how do you,sampled,how do you think for a noisy ? a chichen .,11,False,4,how do you think,how do you think the unthinkable ? with an itheburg .,12.5
+what do you,greedy,what do you call a cow with no legs ? a receding hare .,14,False,10,what do you call a cow with no legs ?,what do you call a cow with no legs ? ground beef !,81.8
+what do you,sampled,what do you call a social in space ? nobody knows,11,False,6,what do you call a social,what do you call a social media platform designed for religious people who also have speech impediments ? faithbook,37.5
+what do you,sampled,what do you call a man in a vest ? a corner .,13,False,6,what do you call a man,what do you call a man with his big toe above his shin ? tony,40.0
+what do you,sampled,what do you call a fake who's ? parties you call a receding . . .,16,False,6,what do you call a fake,what do you call a fake noodle ? an impasta ! : d,23.1
+i told my,greedy,i told my slaves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,50,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,"i told my slaves , but my slaves !",9,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,i told my coffee talk know ? she was really in a week . . .,16,False,4,week . . .,i went to a seafood disco last week . . . and pulled a mussel .,7.7
+i told my,sampled,"i told my coffee back . . . he had two said , i don't know i've surgeon .",19,False,4,back . . .,i hate people who talk about me behind my back . . . they discussed me .,18.8

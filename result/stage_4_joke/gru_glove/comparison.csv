@@ -1,0 +1,21 @@
+prompt,mode,joke,words,exact_copy,longest_shared_words,shared_phrase,closest_training_joke,copied_4grams_pct
+what did the,greedy,what did the fish say when it hit the wall ? dam .,13,True,13,what did the fish say when it hit the wall ? dam .,what did the fish say when it hit the wall ? dam .,100.0
+what did the,sampled,what did the american say to the other planets ? dinners !,12,False,6,say to the other planets ?,what did earth say to the other planets ? you guys have no life !,44.4
+what did the,sampled,what did the fish say when it go to the other ? said its using .,16,False,7,what did the fish say when it,what did the fish say when it swam into the wall ? dam .,38.5
+what did the,sampled,what did the boy say to the store with the grill restaurant ? one is a vest .,18,False,3,what did the,what did the tin man say when he got run over by a steamroller ? curses ! foil again !,0.0
+why did the,greedy,why did the chicken cross the road ? because it was a little boulder .,15,False,8,why did the chicken cross the road ?,why did the chicken cross the road ? to show the opossum it could be done .,91.7
+why did the,sampled,why did the picture leek the super of tea bowl ? he was a stewicide,15,False,4,? he was a,why couldn't the pony sing ? he was a little horse .,8.3
+why did the,sampled,why did the french detained the new boxer ? he lost in case a wrapped .,16,False,3,why did the,why did the chicken cross the road ? to show the opossum it could be done .,0.0
+why did the,sampled,why did the general ask his son about his armies ? because he was too he .,17,False,4,? because he was,why did no one ever consider tony stark ( the iron man ) a protagonist ? because he was always cited as the anthony hero .,7.1
+how do you,greedy,how do you call a cow with a cow ? a cow .,13,False,7,do you call a cow with a,what do you call a cow with a twitch ? beef jerky,70.0
+how do you,sampled,how do you call a cow that no legs ? they didn't have a pie !,16,False,6,do you call a cow that,what do you call a cow that just gave birth ? decaffeinated,30.8
+how do you,sampled,how do you call a raping in space ? a stab .,12,False,5,how do you call a,how do you call a deer with no eyes ? no idea .,22.2
+how do you,sampled,how do you call a fish with no legs ? a vest and a bar .,16,False,7,do you call a fish with no,what do you call a fish with no eyes ? . . . a fssshhh . . .,53.8
+what do you,greedy,what do you call a cow with a cow ? a cow .,13,False,8,what do you call a cow with a,what do you call a cow with a twitch ? beef jerky,70.0
+what do you,sampled,what do you have you call a firecracker ? it .,11,False,3,what do you,what do you get when you mix michael jordan with donald trump ? a dunkin ' donut .,0.0
+what do you,sampled,what do you call a frenchman of a waggin ? a duck .,13,False,6,what do you call a frenchman,what do you call a frenchman in sandals ? philippe philoppe .,30.0
+what do you,sampled,what do you call an american with a cashew ? a roberto - mart,14,False,5,what do you call an,what do you call an italian guy with a rubber toe ? roberto,18.2
+i told my,greedy,"i told my slaves like my coffee . . . i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i",50,False,6,". . . i said ,","my girlfriend told me she was leaving me because i keep pretending to be a transformer . . . i said , no , wait ! i can change !",34.0
+i told my,sampled,i told my son from college ? i made my bodies - aly .,14,False,3,i told my,i told my girlfriend she drew her eyebrows on too high she looked surprised .,0.0
+i told my,sampled,i told my coffee . . . he said it was work .,13,False,5,. . . he said,"i went to the store and asked for a one handed sailor . . . he said sorry , i'm a wholesaler .",20.0
+i told my,sampled,"i told my wanted to the table . . . it's too much . # . i am , bach , i said , there don't know i like my ear .",32,False,4,. . . it's,every single morning i get hit by the same bike . . . it's a vicious cycle .,3.4
