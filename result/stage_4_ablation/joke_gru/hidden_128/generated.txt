@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say to the other ? he was a little boulder .
+sample 1 (T=0.8): what did the desk say to the wall ? oh , the flag of them !
+sample 2 (T=0.8): what did the jellyroll say when it got a breath ? get when everything
+sample 3 (T=0.8): what did the hammer say to the denver - class ? she needed to go to the other ) me .
+=== why did the
+greedy:  why did the chicken cross the road ? because it was a little crabby .
+sample 1 (T=0.8): why did the buddhist locked leave the road ? because it was a little meteor .
+sample 2 (T=0.8): why did the pony cross the road ? he could that was so far .
+sample 3 (T=0.8): why did the knife cross the road ? because i could up it was me out my high . .
+=== how do you
+greedy:  how do you call a cow with a party ? a stick .
+sample 1 (T=0.8): how do you call a dead that younger pig of tea ? because it was tryin !
+sample 2 (T=0.8): how do you call a social rabbits ? when you know a broken cow .
+sample 3 (T=0.8): how do you get if an elephant at a ghost .
+=== what do you
+greedy:  what do you call a cow with a cow ? a stick .
+sample 1 (T=0.8): what do you call a pachyderm that ? you
+sample 2 (T=0.8): what do you call the atlantic say when you forward a booby ? you
+sample 3 (T=0.8): what do you call a dog with no legs ? a penguin .
+=== i told my
+greedy:  i told my slaves like my slaves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+sample 1 (T=0.8): i told my uncle a cookbook . . . all the hokey likely so have been that a pet about alcoholic .
+sample 2 (T=0.8): i told my laptop curiosity a rip up . . . . . it all all my head .
+sample 3 (T=0.8): i told my girlfriend told me a long with i threw make a balance . . . . . . . . i shouldn't in my wayward . . . out of bird . . . he was a flatterer . . .

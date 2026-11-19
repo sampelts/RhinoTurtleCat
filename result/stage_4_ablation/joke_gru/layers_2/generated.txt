@@ -1,0 +1,25 @@
+=== what did the
+greedy:  what did the fish say to the other ? i had a little boulder .
+sample 1 (T=0.8): what did the door say to the other ? nothing play in the high .
+sample 2 (T=0.8): what did the t say to the other ? i farted my head armed i said , incorrect : i black you !
+sample 3 (T=0.8): what did the octopus say to the other ? i'm was a little twerky .
+=== why did the
+greedy:  why did the chicken cross the road ? because he was a little meteor .
+sample 1 (T=0.8): why did the dog go to the high ? because he was a little wine .
+sample 2 (T=0.8): why did the pony go to go ? because he was heavy - crime .
+sample 3 (T=0.8): why did the banker say to the leg ? the job was a pretty .
+=== how do you
+greedy:  how do you call a cow with no legs ? a receding .
+sample 1 (T=0.8): how do you catch a dirty and a tree ? a fish .
+sample 2 (T=0.8): how do you get a cowculator ? you don't for a little joke .
+sample 3 (T=0.8): how do you get may commercials you put ? a stick crisis
+=== what do you
+greedy:  what do you call a cow with no legs ? a receding - line .
+sample 1 (T=0.8): what do you call a jihadist who nosy in no gainesborough ? a penguin .
+sample 2 (T=0.8): what do you call a pig with no legs ? nobody - beef .
+sample 3 (T=0.8): what do you call a cow in an ? a stick ( dominate comb in his telling line .
+=== i told my
+greedy:  i told my time . . . i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i said , i
+sample 1 (T=0.8): i told my trying . . . my x used to wi , a roof . . . i says my pizza .
+sample 2 (T=0.8): i told my slaves in a melted . . . i've wanted : i said it was them .
+sample 3 (T=0.8): i told my night on to wonder at the pet met followed . they're chardaneiiiiiiggghhhhh and my arm told that this back , but i said that he was time on me and dig .
